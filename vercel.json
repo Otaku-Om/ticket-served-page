@@ -1,0 +1,6 @@
+{
+   "rewrites": [
+     { "source": "/ticket/:ticket_number", "destination": "/" }
+   ]
+}
+ 
